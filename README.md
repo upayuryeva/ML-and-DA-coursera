@@ -1,5 +1,5 @@
 # Специализация по машинному обучению и анализу данных на Coursera 
-*Cейчас в процессе прохождения*
+
 
  [Страница специализации](https://www.coursera.org/specializations/machine-learning-data-analysis)
  
